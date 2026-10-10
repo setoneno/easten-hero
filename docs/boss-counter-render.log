@@ -1,0 +1,99 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 566.03 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: no boss before Round 5 pickup
+PASS: three prayers unlock this round's magatama
+PASS: third prayer alone does not spawn boss
+PASS: Rounds 1-4 retain normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: no boss before Round 5 pickup
+PASS: three prayers unlock this round's magatama
+PASS: third prayer alone does not spawn boss
+PASS: Rounds 1-4 retain normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: no boss before Round 5 pickup
+PASS: three prayers unlock this round's magatama
+PASS: third prayer alone does not spawn boss
+PASS: Rounds 1-4 retain normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: no boss before Round 5 pickup
+PASS: three prayers unlock this round's magatama
+PASS: third prayer alone does not spawn boss
+PASS: Rounds 1-4 retain normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: no boss before Round 5 pickup
+PASS: three prayers unlock this round's magatama
+PASS: third prayer alone does not spawn boss
+PASS: Round 5 pickup starts one live boss encounter
+PASS: pickup is not victory or defeat
+PASS: boss encounter retains health and earned upgrades
+PASS: high-HP boss participates in existing targeting and damage
+PASS: boss spawns at reachable unobstructed location
+PASS: duplicate pickup cannot spawn again, clear alive boss or enter Round 6
+PASS: boss placement works near edges and both riverbanks
+PASS: boss placement works near edges and both riverbanks
+PASS: boss placement works near edges and both riverbanks
+PASS: boss placement works near edges and both riverbanks
+PASS: boss placement works near edges and both riverbanks
+PASS: outside attack window, real sword is guarded
+PASS: boss health HUD reflects sword damage
+PASS: actual volley opens damage acceptance immediately
+PASS: damage is accepted inside attack window
+PASS: pause freezes damage window and rejects damage
+PASS: window closes after actual elapsed time
+PASS: damage is rejected again after window expires
+PASS: sword launched while guarded can hit during later open window
+PASS: sword launched while open is rejected if impact occurs after closing
+PASS: regular kill during boss fight grants EXP and opens upgrade menu
+PASS: upgrade pause freezes boss attacks, damage and spawning
+PASS: keyboard upgrade applies and resumes boss fight
+PASS: normal spawner remains available during fight
+PASS: boss contact uses existing HP and invulnerability
+PASS: invulnerability rejects naginata damage
+PASS: naginata hits immediately with no warning
+PASS: naginata deals 30 damage once in forward fan
+PASS: behind, side, range and angle outside fan are safe
+PASS: behind, side, range and angle outside fan are safe
+PASS: behind, side, range and angle outside fan are safe
+PASS: behind, side, range and angle outside fan are safe
+PASS: inside fan near angle boundary is hit
+PASS: behind immediate forward sweep stays safe
+PASS: rock blocks naginata sweep
+PASS: arrows release immediately with no warning
+PASS: arrow volley releases three physical projectiles
+PASS: pause freezes flying arrows and rejects extra volleys
+PASS: real arrow hits player for 18 and passes allied enemy without damage
+PASS: sidestepping locked arrow volley avoids damage
+PASS: river wall stops all arrows
+PASS: arrows expire at range limit
+PASS: boss pursues at substantially faster speed
+PASS: recovery actively flanks instead of standing still
+PASS: faster boss still uses bridge route across river
+PASS: boss fades behind foliage
+PASS: boss in front stays opaque
+PASS: larger boss also fades behind shrine roof
+PASS: boss leaving scenery restores opacity
+PASS: boss uses full-height scenery bounds for every pose
+PASS: boss uses full-height scenery bounds for every pose
+PASS: boss uses full-height scenery bounds for every pose
+PASS: boss uses full-height scenery bounds for every pose
+GAME CLEAR: final boss defeated; gameplay paused.
+PASS: actual boss defeat yields exclusive GAME CLEAR
+PASS: victory has separate overlay without Next
+PASS: victory freezes attacks, rejects rewards and Round 6
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: R from GAME CLEAR resets the entire run
+PASS: restart removes boss and restores shrine gate
+GAME OVER: gameplay paused.
+PASS: same-frame lethal player damage wins regardless of ordering
+PASS: defeat overlay excludes victory
+PASS: deferred boss completion cannot replace GAME OVER
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+GAME OVER: gameplay paused.
+PASS: same-frame lethal player damage wins regardless of ordering
+PASS: defeat overlay excludes victory
+PASS: deferred boss completion cannot replace GAME OVER
+PASS: GAME OVER stops further boss damage
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PHASE_10_VERIFY: PASS (0 failures)

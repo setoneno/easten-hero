@@ -1,0 +1,26 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 566.03 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: normal main starts Round 1
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+BOSS TEST: standalone practice; R reloads this scene after victory/defeat.
+PASS: B from normal main opens live Round 5 boss practice
+PASS: practice preset and boss-only population applied
+PASS: practice visibly identifies Round 5 and boss
+PASS: after switching, real movement input works and boss pursuit advances
+PASS: after switching, Space fires real swords
+PASS: boss warning and arrow attack timers advance after switching
+GAME CLEAR: final boss defeated; gameplay paused.
+PASS: practice reaches GAME CLEAR
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+BOSS TEST: standalone practice; R reloads this scene after victory/defeat.
+PASS: R retries boss practice instead of Round 1
+GAME OVER: gameplay paused.
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+BOSS TEST: standalone practice; R reloads this scene after victory/defeat.
+PASS: B from paused defeat retries practice
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+BOSS TEST: standalone practice; R reloads this scene after victory/defeat.
+PASS: screen button starts fresh live boss practice
+BOSS_PRACTICE_VERIFY: PASS (0 failures)

@@ -1,0 +1,78 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: round 1 starts on Riverside
+PASS: cannot advance an uncleared round
+PASS: pickup freezes the current round
+PASS: bonus choices block advance
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: clear screen waits for next command
+PASS: N or actual GUI button advances exactly one round
+PASS: consecutive maps alternate
+PASS: Level and overflow EXP preserved
+PASS: all acquired abilities and remaining HP preserved
+PASS: old enemies, spawner and projectiles removed
+PASS: new map starts with four fresh enemies
+PASS: player starts on safe new map position
+PASS: new objective is visible, uncollected and reachable
+PASS: HUD shows current round and map
+PASS: wall bodies do not accumulate across transitions
+PASS: forest changes obstacle density and removes river
+PASS: 25 forest objectives have safe reachable visible locations
+PASS: forest tree / roof / gate applies behind opacity
+PASS: exiting forest scenery restores full opacity
+PASS: forest tree / roof / gate applies behind opacity
+PASS: exiting forest scenery restores full opacity
+PASS: forest tree / roof / gate applies behind opacity
+PASS: exiting forest scenery restores full opacity
+PASS: in front of forest trees stays fully visible
+PASS: pickup freezes the current round
+PASS: bonus choices block advance
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: clear screen waits for next command
+PASS: N or actual GUI button advances exactly one round
+PASS: consecutive maps alternate
+PASS: Level and overflow EXP preserved
+PASS: all acquired abilities and remaining HP preserved
+PASS: old enemies, spawner and projectiles removed
+PASS: new map starts with four fresh enemies
+PASS: player starts on safe new map position
+PASS: new objective is visible, uncollected and reachable
+PASS: HUD shows current round and map
+PASS: wall bodies do not accumulate across transitions
+PASS: pickup freezes the current round
+PASS: bonus choices block advance
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: clear screen waits for next command
+PASS: N or actual GUI button advances exactly one round
+PASS: consecutive maps alternate
+PASS: Level and overflow EXP preserved
+PASS: all acquired abilities and remaining HP preserved
+PASS: old enemies, spawner and projectiles removed
+PASS: new map starts with four fresh enemies
+PASS: player starts on safe new map position
+PASS: new objective is visible, uncollected and reachable
+PASS: HUD shows current round and map
+PASS: wall bodies do not accumulate across transitions
+PASS: pickup freezes the current round
+PASS: bonus choices block advance
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: clear screen waits for next command
+PASS: N or actual GUI button advances exactly one round
+PASS: consecutive maps alternate
+PASS: Level and overflow EXP preserved
+PASS: all acquired abilities and remaining HP preserved
+PASS: old enemies, spawner and projectiles removed
+PASS: new map starts with four fresh enemies
+PASS: player starts on safe new map position
+PASS: new objective is visible, uncollected and reachable
+PASS: HUD shows current round and map
+PASS: wall bodies do not accumulate across transitions
+PASS: pursuit resumes on new rounds
+PASS: continuous spawning resumes on later rounds
+GAME OVER: gameplay paused.
+PASS: GAME OVER prevents round transition
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: restart resets run to round 1 Riverside
+PASS: restart resets progression and HP
+PHASE_7_VERIFY: PASS (0 failures)

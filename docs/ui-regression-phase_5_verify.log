@@ -1,0 +1,33 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: starts at level 1 / EXP 0
+PASS: level and EXP HUD initialized
+PASS: kills award EXP once, below threshold stays active
+PASS: real sword created for threshold kill
+PASS: nonlethal sword gives no EXP
+PASS: sword kill immediately pauses and opens level 2 menu
+PASS: threshold consumed exactly once
+PASS: EXP gauge uses next requirement
+PASS: three choices describe actual stat values
+PASS: R cannot bypass level choices
+PASS: player, enemies and swords freeze during choice
+PASS: spawn and attack timers freeze
+PASS: protection freezes and direct attacks are blocked
+PASS: no damage during choice
+PASS: keyboard choice applies damage and resumes
+PASS: upgraded damage used by new projectile
+PASS: retirement does not award EXP
+PASS: large award carries overflow through multiple thresholds
+PASS: first queued level selection shown
+PASS: mouse choice applies shorter attack interval
+PASS: second choice remains paused
+PASS: last queued choice applies speed and resumes
+PASS: same upgrade can be selected again
+PASS: upgraded diagonal movement still normalized
+GAME OVER: gameplay paused.
+PASS: GAME OVER rejects EXP and selections without resuming
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: restart resets level, EXP and choices
+PASS: restart resets every upgrade
+PHASE_5_VERIFY: PASS (0 failures)

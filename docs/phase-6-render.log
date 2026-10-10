@@ -1,0 +1,40 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 566.03 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+Game 002 Phase 6: find the jade magatama to clear the round. R retries after clear.
+PASS: 40 placements are reachable, obstacle-free, visible and away from spawn
+PASS: random placement produces varied locations
+PASS: exploration begins without clear
+PASS: distant item cannot be collected
+PASS: walking into magatama clears and consumes it
+PASS: bonus 120 uses shared EXP and queues three upgrades
+PASS: bonus choices precede final clear screen
+PASS: duplicate pickups and late kills cannot add reward
+PASS: R cannot skip bonus choices
+PASS: game stays stopped throughout bonus selections
+PASS: game stays stopped throughout bonus selections
+ROUND CLEAR: bonus EXP choices complete; waiting for retry.
+PASS: game stays stopped throughout bonus selections
+PASS: every earned level gets one choice
+PASS: final clear screen shown after choices
+PASS: bonus upgrades actually apply
+PASS: clear screen prevents movement and combat
+PASS: enemies and flying swords remain frozen through clear choices
+PASS: clear freezes spawning and its timer
+Game 002 Phase 6: find the jade magatama to clear the round. R retries after clear.
+PASS: R retries a fresh round
+PASS: retry resets growth
+PASS: retry places a new uncollected objective
+Game 002 Phase 6: find the jade magatama to clear the round. R retries after clear.
+ROUND CLEAR: bonus EXP choices complete; waiting for retry.
+PASS: small bonus clears without upgrade menu
+PASS: kill EXP and bonus share one gauge
+Game 002 Phase 6: find the jade magatama to clear the round. R retries after clear.
+GAME OVER: gameplay paused.
+PASS: same-frame lethal damage wins over deferred pickup
+PASS: GAME OVER gives no clear bonus or overlay
+Game 002 Phase 6: find the jade magatama to clear the round. R retries after clear.
+PASS: level-up pause blocks pickup
+ROUND CLEAR: bonus EXP choices complete; waiting for retry.
+PASS: pickup resolves normally after selection resumes
+PHASE_6_VERIFY: PASS (0 failures)

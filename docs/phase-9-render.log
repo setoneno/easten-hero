@@ -1,0 +1,127 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 566.03 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+Game 002 Ver 0.1: N continues after clear; R restarts; M toggles sound.
+PASS: round stays in five-stage range
+PASS: each round starts with three unvisited shrines
+PASS: magatama absent and inactive at round start
+PASS: locked magatama cannot complete round
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: paused gameplay rejects prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: HUD shows three shrines completed
+PASS: released magatama is reachable
+PASS: new shrine roof has behind opacity
+PASS: new shrine front restores opacity
+PASS: new shrine has actual feet collision
+PASS: rounds 1-4 award normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: bonus selections finish before advancing
+PASS: next stage preserves progression
+PASS: round stays in five-stage range
+PASS: each round starts with three unvisited shrines
+PASS: magatama absent and inactive at round start
+PASS: locked magatama cannot complete round
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: paused gameplay rejects prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: HUD shows three shrines completed
+PASS: released magatama is reachable
+PASS: rounds 1-4 award normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: bonus selections finish before advancing
+PASS: next stage preserves progression
+PASS: round stays in five-stage range
+PASS: each round starts with three unvisited shrines
+PASS: magatama absent and inactive at round start
+PASS: locked magatama cannot complete round
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: paused gameplay rejects prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: HUD shows three shrines completed
+PASS: released magatama is reachable
+PASS: rounds 1-4 award normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: bonus selections finish before advancing
+PASS: next stage preserves progression
+PASS: round stays in five-stage range
+PASS: each round starts with three unvisited shrines
+PASS: magatama absent and inactive at round start
+PASS: locked magatama cannot complete round
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: paused gameplay rejects prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: HUD shows three shrines completed
+PASS: released magatama is reachable
+PASS: rounds 1-4 award normal clear
+ROUND CLEAR: bonus EXP choices complete; next round available.
+PASS: bonus selections finish before advancing
+PASS: next stage preserves progression
+PASS: round stays in five-stage range
+PASS: each round starts with three unvisited shrines
+PASS: magatama absent and inactive at round start
+PASS: locked magatama cannot complete round
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: prayer entrance is unobstructed and reachable
+PASS: paused gameplay rejects prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: praying increments distinct shrine count
+PASS: repeat prayer does not count twice
+PASS: magatama appears only after third prayer
+PASS: HUD shows three shrines completed
+PASS: released magatama is reachable
+PASS: round 5 pickup requests final battle exactly once
+PASS: round 5 pickup is neither GAME CLEAR nor normal clear
+PASS: final battle has no next-round button
+PASS: cannot enter round 6 or request boss twice
+Game 002 Ver 0.1: N continues after clear; R restarts; M toggles sound.
+PASS: restart resets all shrine and final-battle state
+GAME OVER: gameplay paused.
+PASS: lethal damage wins over deferred prayer
+PHASE_9_VERIFY: PASS (0 failures)

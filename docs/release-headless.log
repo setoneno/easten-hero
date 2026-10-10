@@ -1,0 +1,39 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: startup title without save disables Continue
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: New Game starts Round 1 and persists entry checkpoint
+PASS: release-default hides practice UI
+PASS: release-default ignores B
+PASS: Esc opens pause menu
+PASS: pause freezes movement/enemies/projectiles/spawn/attack/protection/feedback/damage
+PASS: Resume restarts same live scene
+PASS: HUD Pause button works
+PASS: Esc resumes the pause menu
+PASS: Pause Title removes old world and clears pause
+PASS: title enables persisted Continue
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: title Continue restores entry, not paused mid-round state
+PASS: latest Round 5 entry replaces disk checkpoint
+PASS: normal boss HUD hides internal hint/window
+PASS: normal guarded impact has no GUARD debug popup
+PASS: pause freezes boss/live arrows and blocks additional attacks
+PASS: Esc cannot bypass level choice
+GAME OVER: gameplay paused.
+PASS: Esc cannot bypass Game Over
+PASS: Game Over Continue restores Round 5 before boss
+GAME OVER: gameplay paused.
+PASS: Game Over Title works
+PASS: checkpoint survives cache reset and disk reload
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+GAME CLEAR: final boss defeated; gameplay paused.
+PASS: Game Clear waits for menu selection
+PASS: Esc cannot bypass Game Clear
+PASS: Game Clear Title retains checkpoint
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: explicit New Game resets progress and disk checkpoint
+PASS: Exit wired on GameOver
+PASS: Exit wired on GameClear
+PASS: Exit wired on Pause
+PASS: corrupt save disables Continue without starting gameplay
+RELEASE_FLOW_VERIFY: PASS (0 failures)

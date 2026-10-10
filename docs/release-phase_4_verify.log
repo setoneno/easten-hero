@@ -1,0 +1,36 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: starts alive with full HP
+PASS: HP label initialized
+PASS: HP bar initialized
+PASS: R does not restart an active game
+PASS: terrain and empty field do not damage player
+PASS: pursuing enemy contact deals 10 damage
+PASS: contact grants invulnerability
+PASS: leaving contact prevents more damage
+PASS: multiple touching enemies cannot stack damage
+PASS: HP bar updates after hit
+PASS: invulnerability displayed
+PASS: continuous contact protected during 1 second cooldown
+PASS: continuous contact damages again after cooldown
+PASS: dead enemies do not cause contact damage
+GAME OVER: gameplay paused.
+PASS: zero HP marks player dead
+PASS: GAME OVER pauses SceneTree
+PASS: GAME OVER overlay visible
+PASS: HP bar reaches zero before pause
+PASS: movement stopped after defeat
+PASS: enemy pursuit stopped after defeat
+PASS: existing projectiles stopped after defeat
+PASS: spawn timer and new spawns stopped
+PASS: attacks blocked after defeat
+PASS: direct spawn request blocked during GAME OVER
+PASS: combat frozen and death emitted only once
+PASS: R continues and resumes the scene
+PASS: restart resets health and protection
+PASS: restart resets HUD and overlay
+PASS: restart restores initial four enemies
+PASS: restart removes old projectiles
+PASS: movement works after restart
+PHASE_4_VERIFY: PASS (0 failures)

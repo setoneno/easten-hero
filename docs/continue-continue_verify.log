@@ -1,0 +1,30 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 566.03 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: next round captures entry checkpoint
+GAME OVER: gameplay paused.
+PASS: death waits for continue selection
+PASS: R/button continue same round
+PASS: restore entry HP and clear death
+PASS: discard this round growth, keep entry growth
+PASS: restore combat and aim values
+PASS: reset shrine/jade and restore entry kills
+PASS: fresh actors without old projectiles
+GAME OVER: gameplay paused.
+PASS: death waits for continue selection
+PASS: R/button continue same round
+PASS: restore entry HP and clear death
+PASS: discard this round growth, keep entry growth
+PASS: restore combat and aim values
+PASS: reset shrine/jade and restore entry kills
+PASS: fresh actors without old projectiles
+PASS: Round 5 has live boss before death
+GAME OVER: gameplay paused.
+PASS: boss death restarts Round 5 before boss
+PASS: Round 5 shrine gate and projectile cleanup reset
+PASS: Round 5 can release jade and summon boss again
+GAME CLEAR: final boss defeated; gameplay paused.
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: GAME CLEAR starts fresh Round 1
+CONTINUE_VERIFY: PASS (0 failures)

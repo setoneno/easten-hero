@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3]
+[ext_resource type="Script" path="res://scripts/final_boss.gd" id="1"]
+[sub_resource type="RectangleShape2D" id="Feet"]
+size = Vector2(12, 8)
+[node name="FinalBoss" type="CharacterBody2D"]
+motion_mode = 1
+collision_layer = 4
+collision_mask = 1
+script = ExtResource("1")
+speed = 125.0
+max_hp = 240
+contact_damage = 18
+exp_reward = 0
+[node name="Feet" type="CollisionShape2D" parent="."]
+shape = SubResource("Feet")

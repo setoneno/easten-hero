@@ -1,0 +1,25 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 566.03 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce GTX 1050 Ti
+
+Game 002 Phase 3: Space / LMB to throw; Tab toggles AUTO / MOUSE aim.
+PASS: auto aim targets nearest visible enemy
+PASS: cooldown rejects immediate repeat
+PASS: sword impact deals damage exactly once
+PASS: sword disappears on enemy impact
+PASS: zero HP enemy disappears
+PASS: dead enemy removed from target group
+PASS: auto aim skips enemy behind rock
+PASS: manual aim follows mouse world position
+PASS: obstacle stops sword before enemy
+PASS: fast sword cannot tunnel through enemy
+PASS: range limit removes missed sword
+PASS: Space hold repeats at configured interval
+PASS: release stops throwing
+PASS: Tab toggles to manual aim
+PASS: left click throws sword
+PHASE_3_VERIFY: PASS (0 failures)
+Game 002 Phase 3: Space / LMB to throw; Tab toggles AUTO / MOUSE aim.
+PASS: defeat signal updates HUD counter only once
+PASS: defeat frees an active spawn slot
+PASS: spawning continues after defeat
+PHASE_3_FINAL: PASS (0 failures)

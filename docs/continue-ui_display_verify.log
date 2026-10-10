@@ -1,0 +1,63 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: all abilities start at Lv1
+PASS: ability HUD initialized
+PASS: choice shows current and next ability level
+PASS: choice shows current and next ability level
+PASS: choice shows current and next ability level
+PASS: choice shows current and next ability level
+PASS: only selected ability advances, repeated choice supported
+PASS: existing effect values retained
+PASS: ability levels carry into next map
+VIEW riverside (480.0, 440.0) screen=(320.0, 230.0) bounds=(160.0, 310.0)..(800.0, 570.0)
+PASS: player above feet remains below header riverside
+PASS: effective map viewport stays within map riverside
+PASS: player centered in game area riverside
+VIEW riverside (24.0, 32.0) screen=(24.0, 132.0) bounds=(0.0, 0.0)..(640.0, 260.0)
+PASS: player above feet remains below header riverside
+PASS: effective map viewport stays within map riverside
+VIEW riverside (1512.0, 32.0) screen=(616.0, 132.0) bounds=(896.0, 0.0)..(1536.0, 260.0)
+PASS: player above feet remains below header riverside
+PASS: effective map viewport stays within map riverside
+VIEW riverside (24.0, 1120.0) screen=(24.0, 328.0) bounds=(0.0, 892.0)..(640.0, 1152.0)
+PASS: player above feet remains below header riverside
+PASS: effective map viewport stays within map riverside
+VIEW riverside (1512.0, 1120.0) screen=(616.0, 328.0) bounds=(896.0, 892.0)..(1536.0, 1152.0)
+PASS: player above feet remains below header riverside
+PASS: effective map viewport stays within map riverside
+VIEW forest (480.0, 440.0) screen=(320.0, 230.0) bounds=(160.0, 310.0)..(800.0, 570.0)
+PASS: player above feet remains below header forest
+PASS: effective map viewport stays within map forest
+PASS: player centered in game area forest
+VIEW forest (24.0, 32.0) screen=(24.0, 132.0) bounds=(0.0, 0.0)..(640.0, 260.0)
+PASS: player above feet remains below header forest
+PASS: effective map viewport stays within map forest
+VIEW forest (1512.0, 32.0) screen=(616.0, 132.0) bounds=(896.0, 0.0)..(1536.0, 260.0)
+PASS: player above feet remains below header forest
+PASS: effective map viewport stays within map forest
+VIEW forest (24.0, 1120.0) screen=(24.0, 328.0) bounds=(0.0, 892.0)..(640.0, 1152.0)
+PASS: player above feet remains below header forest
+PASS: effective map viewport stays within map forest
+VIEW forest (1512.0, 1120.0) screen=(616.0, 328.0) bounds=(896.0, 892.0)..(1536.0, 1152.0)
+PASS: player above feet remains below header forest
+PASS: effective map viewport stays within map forest
+VIEW boss (480.0, 440.0) screen=(320.0, 250.0) bounds=(160.0, 330.0)..(800.0, 550.0)
+PASS: player above feet remains below header boss
+PASS: effective map viewport stays within map boss
+PASS: player centered in game area boss
+VIEW boss (24.0, 32.0) screen=(24.0, 172.0) bounds=(0.0, 0.0)..(640.0, 220.0)
+PASS: player above feet remains below header boss
+PASS: effective map viewport stays within map boss
+VIEW boss (1512.0, 32.0) screen=(616.0, 172.0) bounds=(896.0, 0.0)..(1536.0, 220.0)
+PASS: player above feet remains below header boss
+PASS: effective map viewport stays within map boss
+VIEW boss (24.0, 1120.0) screen=(24.0, 328.0) bounds=(0.0, 932.0)..(640.0, 1152.0)
+PASS: player above feet remains below header boss
+PASS: effective map viewport stays within map boss
+VIEW boss (1512.0, 1120.0) screen=(616.0, 328.0) bounds=(896.0, 932.0)..(1536.0, 1152.0)
+PASS: player above feet remains below header boss
+PASS: effective map viewport stays within map boss
+Game 002 Phase 10: Round 5 boss defeat clears the game; R restarts; M toggles sound.
+PASS: restart resets ability levels
+UI_DISPLAY_VERIFY: PASS (0 failures)
